@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AnalyzerApiModule">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../jars/AnalyzerApiModule.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

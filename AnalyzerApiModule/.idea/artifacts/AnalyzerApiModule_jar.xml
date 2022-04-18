@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="AnalyzerApiModule:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AnalyzerApiModule_jar</output-path>
+    <root id="archive" name="AnalyzerApiModule.jar">
+      <element id="module-output" name="AnalyzerApiModule" />
+    </root>
+  </artifact>
+</component>

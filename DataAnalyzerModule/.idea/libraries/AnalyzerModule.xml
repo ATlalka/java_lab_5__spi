@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="AnalyzerModule">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../jars/AnalyzerModule.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../jars/AnalyzerModule.jar!/src" />
+    </SOURCES>
+  </library>
+</component>

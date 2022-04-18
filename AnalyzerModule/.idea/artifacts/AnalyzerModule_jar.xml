@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="AnalyzerModule:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AnalyzerModule_jar</output-path>
+    <root id="archive" name="AnalyzerModule.jar">
+      <element id="module-output" name="AnalyzerModule" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../AnalyzerApiModule/out/artifacts/AnalyzerApiModule_jar/AnalyzerApiModule.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
